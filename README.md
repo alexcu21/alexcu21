@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Custom Dynamic Gutenberg Block Step-by-Step](https://medium.com/nicasource/how-to-build-a-custom-dynamic-gutenberg-block-step-by-step-a345e97aee98?source=rss-dbc833a85575------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
